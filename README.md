@@ -1,6 +1,6 @@
 # Options-Pricing
 
-1. Cumulative Distribution Function (CDF) calculation model
+1. Cumulative Distribution Function (CDF) calculation modelling
 2. Black-Scholes Model implementation
 3. Monte Carlo Model implementation & simulate
 4. Apply FMP API Options data
