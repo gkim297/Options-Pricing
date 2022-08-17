@@ -1,7 +1,10 @@
 # Options-Pricing
 
-1. Black-Scholes Model
-2. Monte Carlo
+1. Cumulative Distribution Function (CDF) calculation model
+2. Black-Scholes Model implementation
+3. Monte Carlo Model implementation & simulate
+4. Apply FMP API Options data
+5. Save to MongoDB 
 
 The image below is experiment result of running 1 million random simulations on the GDB C++ compiler. 
 
